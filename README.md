@@ -145,6 +145,7 @@ Potential standards to assess with a qualified compliance specialist include IEC
 **Validation:** Not clinically or experimentally validated
 
 DentX_FlexiFit_V5_Finalized.FCStd
+DentX_FlexiFit_Technical_Design_Report_V5.pdf
 
 ---
 
