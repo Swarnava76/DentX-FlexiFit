@@ -144,6 +144,8 @@ Potential standards to assess with a qualified compliance specialist include IEC
 **CAD source:** FreeCAD `.FCStd` document  
 **Validation:** Not clinically or experimentally validated
 
+DentX_FlexiFit_V5_Finalized.FCStd
+
 ---
 
 ## Disclaimer
